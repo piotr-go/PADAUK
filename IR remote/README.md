@@ -1,5 +1,7 @@
 # IR REMOTE by Piotr Gozdur <piotr_go>
 
+LG TV remote (AKB73715686)
+
 ![schematic](schemat.png)
 ![pcb](pcb.jpg)
 
